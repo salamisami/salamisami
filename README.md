@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @salamisami or just Sami
-- 👀 I’m interested in embedded poop, but currently work as a Java backend dev while studying technical CS (regular ol CS but I learn a bit about embedded stuff too)
-- 🌱 I’m currently learning C++, Spring 
-- 💞️ I’m looking to collaborate on uhm uhm idk
-- 📫 How to reach me: Discord Sami#5013 is probably the best way to reach me.
+-  Hi, I’m @salamisami or just Sami 👋
+- I’m interested in embedded software engineering, and study Computer Engineering 👀
+-  I’m currently learning C++ and Rust 🌱
+-  I’m looking to collaborate on a Hobby project, especially if you have experiences with SDL
+-  How to reach me: saskar301+tn68sauw@gmail.com 📫
 
 <!---
 salamisami/salamisami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
